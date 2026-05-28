@@ -22,143 +22,17 @@
             }
           },
           {
-            "id": "efb2adca49ed63e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen"
-            }
-          },
-          {
-            "id": "05f11b05ad1df7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen"
-            }
-          },
-          {
-            "id": "cd5cc643dfc04bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Betreuung strukturieren"
-            }
-          },
-          {
-            "id": "07b93e5fdf859cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Dokumentation, Reporting, Monitoring und Evaluation/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stipendien und Auswahlverfahren"
-            }
-          },
-          {
             "id": "4e54bd26a86e6e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Betreuung strukturieren"
-            }
-          },
-          {
-            "id": "7befc76c4921b611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mentoring"
-            }
-          },
-          {
-            "id": "e2647eb54163ad56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karriereentwicklung"
-            }
-          },
-          {
-            "id": "1e6a95d36ae5edd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kompetenzanalyse"
-            }
-          },
-          {
-            "id": "50240a3e2cdf0d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Promotion"
-            }
-          },
-          {
-            "id": "0b4f53a75d3f4bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karriereentwicklung"
+              "title": "index"
             }
           },
           {
@@ -174,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Inhalte erstellen"
             }
-          },
-          {
-            "id": "24d88b2a8fbc8b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRK-handbuch/Testnotiz.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Testnotiz"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,41 +211,41 @@
   },
   "active": "592503c1d97a8466",
   "lastOpenFiles": [
-    "Koordination/Methoden und Werkzeuge/Methoden und Werkzeuge.md",
-    "GRK-handbuch/Testnotiz.md",
-    "Inhalte erstellen.md",
-    "docs/docs/Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
-    "docs/docs/Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
-    "docs/docs/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
-    "docs/docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
-    "docs/docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Postdoc.md",
-    "docs/docs/Beratung und Betreuung/Betreuung strukturieren/Mentoring",
-    "docs/docs/Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
-    "docs/docs/Koordination/Methoden und Werkzeuge/Methoden und Werkzeuge.md",
-    "docs/docs/Beratung und Betreuung/Beratung/Karriereentwicklung",
-    "docs/docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion",
-    "docs/docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc",
-    "docs/docs/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
-    "docs/docs/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "docs/docs/Koordination/Methoden und Werkzeuge",
-    "docs/docs/Beratung und Betreuung/Betreuung strukturieren",
-    "docs/docs/Beratung und Betreuung/Beratung",
-    "docs/docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc",
-    "docs/docs/Vernetzung und Internationalisierung",
-    "docs/docs/Stipendien und Auswahlverfahren",
-    "docs/Karriereentwicklung.md",
-    "docs/GRK-handbuch/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
+    "docs/Qualifizierungspropgramm/Das Qualifizierungspropgramm.md",
+    "docs/Qualifizierungspropgramm",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Stipendien und Auswahlverfahren",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen",
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation",
+    "docs/Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
+    "docs/Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
+    "docs/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
+    "docs/Beratung und Betreuung/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
+    "docs/Beratung und Betreuung/Betreuung strukturieren/Mentoring",
+    "docs/Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
+    "docs/Beratung und Betreuung/Beratung/Mentale Gesundheit, Krisen- und Konflikte",
+    "docs/Beratung und Betreuung/Beratung/Karriereentwicklung",
+    "docs/Beratung und Betreuung/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen",
+    "docs/Beratung und Betreuung/Betreuung strukturieren",
+    "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
+    "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Postdoc.md",
+    "docs/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
+    "docs/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
+    "docs/Koordination/Methoden und Werkzeuge/Methoden und Werkzeuge.md",
+    "docs/GRK-handbuch/Beratung und Betreuung 1/Betreuung strukturieren/Mentoring/Mentoring.md",
+    "docs/GRK-handbuch/Beratung und Betreuung 1/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
+    "docs/GRK-handbuch/Beratung und Betreuung 1/Beratung/Karriereentwicklung/Karriereentwicklung.md",
     "docs/GRK-handbuch/Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
     "docs/GRK-handbuch/Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
+    "docs/GRK-handbuch/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
     "docs/GRK-handbuch/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
     "docs/GRK-handbuch/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Postdoc.md",
     "docs/GRK-handbuch/Koordination/Methoden und Werkzeuge/Methoden und Werkzeuge.md",
     "docs/GRK-handbuch/Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
     "docs/GRK-handbuch/Dokumentation, Reporting, Monitoring und Evaluation/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "docs/GRK-handbuch/Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
-    "docs/GRK-handbuch/docs/Karriereentwicklung.md",
-    "docs/GRK-handbuch/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
-    "docs/GRK-handbuch/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md"
+    "docs/GRK-handbuch/Beratung und Betreuung 1/Betreuung strukturieren/Betreuung strukturieren.md"
   ]
 }
