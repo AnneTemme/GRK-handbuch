@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testdatei.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Testdatei"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testdatei.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Testdatei"
+              "title": "Rückverweise auf index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testdatei.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Testdatei öffnen"
+              "title": "Ausgehende Links von index öffnen"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testdatei.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Testdatei"
+              "title": "Gliederung von index"
             }
           }
         ]
@@ -185,7 +185,7 @@
   },
   "active": "5c030f6de060b2f5",
   "lastOpenFiles": [
-    "Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "Testdatei.md"
+    "Testdatei.md",
+    "Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md"
   ]
 }
