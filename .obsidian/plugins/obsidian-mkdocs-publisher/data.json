@@ -23,7 +23,7 @@
   },
   "upload": {
     "behavior": "obsidian",
-    "defaultName": "",
+    "defaultName": "docs",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
