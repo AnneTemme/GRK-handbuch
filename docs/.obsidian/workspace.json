@@ -11,10 +11,14 @@
             "id": "5c030f6de060b2f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testdatei.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Testdatei"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testdatei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Testdatei"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testdatei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von Testdatei öffnen"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Testdatei.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Testdatei"
             }
           }
         ]
@@ -177,5 +184,8 @@
     }
   },
   "active": "5c030f6de060b2f5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
+    "Testdatei.md"
+  ]
 }
