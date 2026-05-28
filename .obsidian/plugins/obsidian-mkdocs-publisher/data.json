@@ -84,7 +84,9 @@
     "shareKey": "share",
     "fileMenu": false,
     "editorMenu": false,
-    "excludedFolder": [],
+    "excludedFolder": [
+      "docs"
+    ],
     "copyLink": {
       "enable": false,
       "links": "",
@@ -101,5 +103,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsId": "upload-configuration"
+  "tabsId": "help"
 }

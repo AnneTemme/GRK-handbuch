@@ -174,9 +174,23 @@
               "icon": "lucide-file",
               "title": "Inhalte erstellen"
             }
+          },
+          {
+            "id": "24d88b2a8fbc8b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GRK-handbuch/Testnotiz.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Testnotiz"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -337,6 +351,9 @@
   },
   "active": "592503c1d97a8466",
   "lastOpenFiles": [
+    "Koordination/Methoden und Werkzeuge/Methoden und Werkzeuge.md",
+    "GRK-handbuch/Testnotiz.md",
+    "Inhalte erstellen.md",
     "docs/docs/Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
     "docs/docs/Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
     "docs/docs/Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
@@ -369,9 +386,6 @@
     "docs/GRK-handbuch/docs/Karriereentwicklung.md",
     "docs/GRK-handbuch/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
     "docs/GRK-handbuch/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Postdoc.md",
-    "Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
-    "Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md"
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md"
   ]
 }
