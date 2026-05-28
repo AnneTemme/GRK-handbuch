@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "f0542104ace6c0f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karriereentwicklung"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf index"
+              "title": "Rückverweise auf Karriereentwicklung"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von index öffnen"
+              "title": "Ausgehende Links von Karriereentwicklung öffnen"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von index"
+              "title": "Gliederung von Karriereentwicklung"
             }
           }
         ]
@@ -183,8 +198,11 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "5c030f6de060b2f5",
+  "active": "f0542104ace6c0f5",
   "lastOpenFiles": [
+    "Literatur und Links/Literatur und Links.md",
+    "index.md",
+    "Literatur und Links",
     "Testdatei.md",
     "Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md"
   ]
