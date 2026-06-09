@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promotionsformen.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Promotionsformen"
+              "title": "index"
             }
           }
         ],
@@ -298,6 +298,7 @@
   },
   "active": "410b8c730b0a7c1a",
   "lastOpenFiles": [
+    "Promotionsformen.md",
     "Warum dieses Handbuch?.md",
     "index.md",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
@@ -320,7 +321,6 @@
     "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/Unterstützung Promovierender aus nichtakademischen Familien.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/Forscher_Innen aus dem Ausland und zugewanderte Forscher_Innen.md",
-    "Promotionsformen.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung",
     "Literatur und Links",
     "Testdatei.md"

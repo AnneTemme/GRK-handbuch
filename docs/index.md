@@ -1,10 +1,9 @@
----
-share:true
----
 site_name: GRK-Handbuch 
 theme:
   name: material
-
+---
+share:true
+---
 **Willkommen im GRK-Handbuch**
 Graduiertenkollegs sind komplexe Einrichtungen. Sie verbinden Forschung, Förderung und Verwaltung – und stellen die Menschen, die sie koordinieren, vor vielfältige Herausforderungen. Dieses Handbuch ist eine offene, wachsende Ressource für alle, die Graduiertenkollegs und ähnliche Einrichtungen der wissenschaftlichen Nachwuchsförderung aufbauen, koordinieren oder leiten.
 **Für wen ist dieses Handbuch?**
