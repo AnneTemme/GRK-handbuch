@@ -1,10 +1,8 @@
 ---
 share: true
 ---
-
 **Hintergrund**
 ...
-
 **Ressourcen**
 Arbeiterkind.de: https://arbeiterkind.de/
 	Promotionsgruppe: https://arbeiterkind.de/als-erste-studieren/promotion 
