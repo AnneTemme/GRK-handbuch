@@ -1,6 +1,4 @@
----
-share: true
----
+
 **Hintergrund**
 **Ressourcen**
 - European Commission (2023). ResearchComp: The European Competence Framework for Researchers: Tool to assess and develop researchers’ transferable skills and foster career development.

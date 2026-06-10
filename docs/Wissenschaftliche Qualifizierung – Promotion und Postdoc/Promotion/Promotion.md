@@ -1,6 +1,4 @@
----
-share: true
----
+
 - Motivation
 - Promotionsphasen
 - Promotionsdauer

@@ -1,6 +1,4 @@
----
-share: true
----
+
 **Formate**
 - Karriereentwicklung – Coaching und Beratung für Gruppen
 - Individuelle Karriereberatung/Karrierecoaching

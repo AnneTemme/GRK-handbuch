@@ -1,6 +1,4 @@
----
-share: true
----
+
 **Erste Schritte**– **Empfehlung**
  - Tagebuch über Vorfälle führen mit Datum, Situation und möglichen Zeugen
  - Eigene Backups von Forschungsdaten anlegen

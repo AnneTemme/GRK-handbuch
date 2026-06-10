@@ -1,6 +1,4 @@
----
-share:true
---- 
+
 Finanzieren der Doktorarbeit – gängige Optionen:
 - Promovieren als wissenschaftliche:r Mitarbeiter:in
 - Promovieren an einem Graduiertenkolleg oder einer Graduiertenschule
