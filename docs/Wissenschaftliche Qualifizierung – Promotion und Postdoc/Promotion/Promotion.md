@@ -1,4 +1,3 @@
-
 - Motivation
 - Promotionsphasen
 - Promotionsdauer
