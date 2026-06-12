@@ -1,1 +1,3 @@
-# Vernetzung und Internationalisierung
+---
+title: Vernetzung und Internationalisierung
+---

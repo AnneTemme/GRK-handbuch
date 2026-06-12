@@ -1,4 +1,7 @@
-# Promotion
+---
+title: Promotion
+---
+
 
 - Motivation
 - Promotionsphasen

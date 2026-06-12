@@ -1,1 +1,3 @@
-# Das Qualifizierungsprogramm
+---
+title: Qualifizierungsprogramm
+---

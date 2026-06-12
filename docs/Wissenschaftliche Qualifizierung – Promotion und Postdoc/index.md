@@ -1,1 +1,3 @@
-# Wissenschaftliche Qualifizierung – Promotion und Postdoc
+---
+title: Wissenschaftliche Qualifizierung – Promotion und Postdoc
+---

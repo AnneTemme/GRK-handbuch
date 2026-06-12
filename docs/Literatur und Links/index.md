@@ -1,1 +1,3 @@
-# Literatur und Links
+---
+title: Literatur und Links
+---

@@ -1,1 +1,3 @@
-# Stipendien und Auswahlverfahren
+---
+title: Stipendien und Auswahlverfahren
+---
