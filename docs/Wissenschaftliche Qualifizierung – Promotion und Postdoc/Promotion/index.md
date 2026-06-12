@@ -37,8 +37,7 @@ Die Beantwortung der folgenden Fragen wird entscheidende Rückschlüsse auf das 
 
 ![Promotionsdauer nach Fächergruppen](Abb-B45-BuWiK25.png)
 
-
-*Quelle: DZHW (2024), Datenportal der National Academics Panel Study (Nacaps), zitiert nach BuWiK 2025, Abb. B45*
+Link zur Grafik:  https://buwik.de/en/interactive-report/section-b/#chart-2586 
 #### Promotionsabbrüche
 
 - Motivation
