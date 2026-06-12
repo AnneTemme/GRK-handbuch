@@ -16,3 +16,5 @@ Indem Wissen explizit gemacht und geteilt wird, trägt das Handbuch zur Anerkenn
 
 **Qualität der Nachwuchsförderung**
 Letztlich profitieren die Promovierenden davon wenn Koordinator:innen gut aufgestellt sind. Es ist also kein Selbstzweck sondern hat direkte Auswirkung auf die Menschen die gefördert werden.
+
+

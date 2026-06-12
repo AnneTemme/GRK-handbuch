@@ -1,3 +1,9 @@
 ---
 title: Koordination
 ---
+
+Die Entwicklung der strukturierten Promotion verlagert auch die Verantwortlichkeit für Promotionsangelegenheiten von der individuellen stärker zur institutionellen Ebene: Während Doktorand:innen im klassischen Promotionsmodell in so gut wie allen Aspekten auf sich gestellt sind, sind Hochschulen und Forschungseinrichtungen inzwischen mehr und mehr gefordert, die Promotionsbedingungen aktiv mitzugestalten. Eine Folge der Entwicklung entsprechender Programme und Netzwerke ist auf personeller Ebene die Herausbildung von Nachwuchsexperten und -expertinnen im Bereich des **Wissenschaftsmanagements**. Solche Manager:innen werden häufig in den Einrichtungen an den Schnittstellen zwischen Wissenschaft und Verwaltung eingesetzt und sie entlasten die Forschenden, indem sie wich-tige Organisations- und Gestaltungsaufgaben übernehmen. Im Zuge der Professionalisierung des Wissenschaftsmanagements entstehen nach und nach Prozess- und Kompetenzprofile für die einzelnen Tätigkeitsbereiche.
+
+Dieser Arbeitsbereich ist durch eine hohe Fluktuation von Mitarbeiter:innen gekennzeichnet, die stets neue Rekrutierung und Einarbeitung verlangen. Dieses Tätigkeitsfeld ist besonders für fortgeschrittene Doktorand:innen und Postdoktorand:innen interessant, um, mit dem eigenen Promotionserleben im Hintergrund, Erfahrungen im Hochschul- und Wissenschaftsmanagement zu sammeln. Oft werden keine themenspezifischen Vorkenntnisse verlangt und verlängerte Orientierungs- und Planungsphasen können durch die Gabe von Handlungshilfen vermieden werden.
+
+[Quellen](../Literatur%20und%20Links/): Kovačević & Mihaljević (2016:9), Schäfer (2021:34)
