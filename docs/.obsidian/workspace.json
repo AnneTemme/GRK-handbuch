@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lizenz und Zitation.md",
+                "file": "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Lizenz und Zitation"
+              "title": "index"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "6767b677050dc31d",
   "lastOpenFiles": [
-    "Warum dieses Handbuch?.md",
-    "Lizenz und Zitation.md",
-    "index.md",
-    "Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
+    "Literatur und Links/index.md",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
+    "index.md",
+    "Lizenz und Zitation.md",
+    "Warum dieses Handbuch?.md",
+    "Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/index.md",
     "Beratung und Betreuung/Beratung/index.md",
     "Vernetzung und Internationalisierung/index.md",
@@ -203,7 +204,6 @@
     "Beratung und Betreuung/Beratung/Karriereentwicklung/index.md",
     "Qualifizierungsprogramm/index.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/index.md",
-    "Literatur und Links/index.md",
     "Dokumentation, Reporting, Monitoring und Evaluation/index.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsformen.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/index.md",
