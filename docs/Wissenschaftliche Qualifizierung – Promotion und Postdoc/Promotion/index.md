@@ -2,7 +2,7 @@
 title: Promotionsformen und Promotionserfolg
 ---
 
-#### Promotionsformen
+## Promotionsformen
 
 Promovierende in Deutschland finanzieren und organisieren ihre Promotion auf unterschiedliche Weise. Die Wahl der Promotionsform hat Einfluss darauf, wie viel Struktur, Betreuung und Einbindung in ein Netzwerk eine Person während der Promotion erfährt.
 
@@ -22,7 +22,7 @@ Finanzieren der Doktorarbeit – gängige Optionen:
 - **Individualpromotion nebenberuflich**  
     Promotion neben einer Berufstätigkeit, meist ohne feste Anbindung an ein Programm. Erfordert hohe Eigenorganisation und kann sich zeitlich stark verzögern, bietet aber Flexibilität.
 
-#### Promotionserfolg
+## Promotionserfolg
 
 Ihrem Zweck nach ist für GRKs die erfolgreiche Promotion das Haupterfolgskriterium. Das bedeutet für Promovierende im allgemeinen mehr als das Erlangen der wissenschaftlichen Selbstständigkeit:
 
@@ -32,9 +32,9 @@ Das politische Oberziel dessen ist die Sicherstellung der Innovations- und Zukun
 
 Die Beantwortung der folgenden Fragen wird entscheidende Rückschlüsse auf das GRK-Programm und seine Zielsetzung in Bezug auf den Promotionsrahmen geben: Wie lange promovieren Kandidat:innen normalerweise und inwiefern ist die Promotionsdauer abhängig vom fachlichen Umfeld und den allgemeinen Lebensumständen (5.1.1)? Welche sind die Hauptgründe für Verzögerungen und Promotionsabbrüche (5.1.2)? Hieraus lassen sich für das GRK-Zielsystem Maßnahmen zur Förderung der Promotionsdauer und zur Vermeidung von Promotionsabbrüchen ziehen.
 
-#### Promotionsdauer und -motive 
+### Promotionsdauer und -motive 
 
-#### Promotionsabbrüche
+### Promotionsabbrüche
 
 - Motivation
 - Promotionsphasen
