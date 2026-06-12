@@ -9,4 +9,4 @@ Graduiertenkollegs sind komplexe Einrichtungen. Sie verbinden Forschung, Förder
 Es richtet sich in erster Linie an Koordinator:innen und Wissenschaftsmanager:innen in Graduierteneinrichtungen – ob neu im Amt oder bereits erfahren. Ebenso angesprochen sind Sprecher:innen und Projektleiter:innen von GRKs, Leitungen von Graduiertenzentren und Dachorganisationen sowie Quereinsteiger:innen die in das Feld wechseln möchten. Auch Promovierende die sich selbst organisieren müssen oder wollen, finden hier Orientierung.
 
 **Hinweis**e
-Dieses Handbuch befindet sich im Aufbau. Beiträge und Erfahrungen aus der Praxis sind ausdrücklich willkommen. Dieses Handbuch steht unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Weitere Informationen zur [Lizenz und Zitation](Lizenz.md).
+Dieses Handbuch befindet sich im Aufbau. Beiträge und Erfahrungen aus der Praxis sind ausdrücklich willkommen. Dieses Handbuch steht unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Weitere Informationen zur [Lizenz und Zitation](Lizenz%20und%20Zitation.md).

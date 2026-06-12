@@ -1,5 +1,5 @@
 ---
-"title:": Lizenz
+"title:": Lizenz und Zitation
 ---
 Dieses Handbuch steht unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
@@ -11,4 +11,4 @@ Dieses Handbuch steht unter der Lizenz [CC BY-SA 4.0](https://creativecommons.or
 
 **Zitiervorschlag:**
 
-Temme Anne (2026). GRK-Handbuch. Online verfügbar unter: https://annetemme.github.io/GRK-handbuch
+Temme Anne (laufend aktualisiert). GRK-Handbuch. Online verfügbar unter: https://annetemme.github.io/GRK-handbuch [Zugriffsdatum einfügen]

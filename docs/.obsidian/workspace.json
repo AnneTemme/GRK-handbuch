@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Lizenz und Zitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Lizenz und Zitation"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "6767b677050dc31d",
   "lastOpenFiles": [
-    "Lizenz.md",
     "index.md",
+    "Lizenz und Zitation.md",
     "Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/index.md",
