@@ -6,4 +6,4 @@ Finanzieren der Doktorarbeit – gängige Optionen:
 - Industriepromotion (extern)
 - Individualpromotion nebenberuflich
 
-Individualpromovierende stehen in Bezug auf die Promotion im Mittel-punkt und ihnen kommt die größte Verantwortung zukommt. Strukturiert Promovierende in ein Gefüge von Beteiligten und Richtlinien eingebunden. Daraus ergibt sich die größte Stärke solcher Programme: Einbindung und umfassende Unterstützung in einem Netzwerk.
+Individualpromovierende stehen in Bezug auf die Promotion im Mittelpunkt und ihnen kommt die größte Verantwortung zukommt. Strukturiert Promovierende in ein Gefüge von Beteiligten und Richtlinien eingebunden. Daraus ergibt sich die größte Stärke solcher Programme: Einbindung und umfassende Unterstützung in einem Netzwerk.
