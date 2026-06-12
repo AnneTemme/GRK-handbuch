@@ -1,7 +1,6 @@
 ---
 title: Promotionsformen und Promotionserfolg
 ---
-
 ## Promotionsformen
 
 Promovierende in Deutschland finanzieren und organisieren ihre Promotion auf unterschiedliche Weise. Die Wahl der Promotionsform hat Einfluss darauf, wie viel Struktur, Betreuung und Einbindung in ein Netzwerk eine Person während der Promotion erfährt.
@@ -22,7 +21,7 @@ Finanzieren der Doktorarbeit – gängige Optionen:
 - **Individualpromotion nebenberuflich**  
     Promotion neben einer Berufstätigkeit, meist ohne feste Anbindung an ein Programm. Erfordert hohe Eigenorganisation und kann sich zeitlich stark verzögern, bietet aber Flexibilität.
 
-## Promotionserfolg
+#### Promotionserfolg
 
 Ihrem Zweck nach ist für GRKs die erfolgreiche Promotion das Haupterfolgskriterium. Das bedeutet für Promovierende im allgemeinen mehr als das Erlangen der wissenschaftlichen Selbstständigkeit:
 
@@ -32,13 +31,14 @@ Das politische Oberziel dessen ist die Sicherstellung der Innovations- und Zukun
 
 Die Beantwortung der folgenden Fragen wird entscheidende Rückschlüsse auf das GRK-Programm und seine Zielsetzung in Bezug auf den Promotionsrahmen geben: Wie lange promovieren Kandidat:innen normalerweise und inwiefern ist die Promotionsdauer abhängig vom fachlichen Umfeld und den allgemeinen Lebensumständen (5.1.1)? Welche sind die Hauptgründe für Verzögerungen und Promotionsabbrüche (5.1.2)? Hieraus lassen sich für das GRK-Zielsystem Maßnahmen zur Förderung der Promotionsdauer und zur Vermeidung von Promotionsabbrüchen ziehen.
 
-### Promotionsdauer und -motive 
+#### Promotionsdauer und -motive 
 
-### Promotionsabbrüche
+2023 betrug die durchschnittliche Promotionsdauer laut Nacaps 5,1 Jahre – gemessen bis zum Abschluss der Promotion aus Sicht der Befragten. Die Promotionsdauer unterscheidet sich deutlich nach Fachbereich: Sie liegt zwischen 4,4 Jahren in den Agrar-, Forst- und Ernährungswissenschaften sowie der Veterinärmedizin und 6,3 Jahren in Kunst und Kunstwissenschaft. Insgesamt beträgt sie 5,1 Jahre (BuWiK 2025, Abb. B45, basierend auf DZHW/Nacaps-Daten). ![Promotionsdauer nach Fächergruppen](Abb-B45-BuWiK25)*Quelle: DZHW (2024), Datenportal der National Academics Panel Study (Nacaps), zitiert nach BuWiK 2025, Abb. B45*
+#### Promotionsabbrüche
 
 - Motivation
 - Promotionsphasen
 - Promotionsdauer
 - Abbrüche und Abbruchgedanken
 
-[Quellen](../Literatur%20und%20Links/):  HRK (2012:3)
+[Quellen](../Literatur%20und%20Links/):  HRK (2012:3), BuWiK 2025 (Abschnitt B3)
