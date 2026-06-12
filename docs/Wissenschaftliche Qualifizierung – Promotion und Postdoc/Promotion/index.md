@@ -1,5 +1,5 @@
 ---
-title: Promotion und Promotionserfolg
+title: Die Promotion und ihre Rolle für die GRK-Koordination
 ---
 
 - **Promotionsformen**: Einbindung und Finanzierung

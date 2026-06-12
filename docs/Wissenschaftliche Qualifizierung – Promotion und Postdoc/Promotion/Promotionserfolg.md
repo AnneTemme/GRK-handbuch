@@ -11,11 +11,13 @@ Die Beantwortung der folgenden Fragen wird entscheidende Rückschlüsse auf das 
 2023 betrug die durchschnittliche Promotionsdauer laut Nacaps 5,1 Jahre – gemessen bis zum Abschluss der Promotion aus Sicht der Befragten. Die Promotionsdauer unterscheidet sich deutlich nach Fachbereich: Sie liegt zwischen 4,4 Jahren in den Agrar-, Forst- und Ernährungswissenschaften sowie der Veterinärmedizin und 6,3 Jahren in Kunst und Kunstwissenschaft. Insgesamt beträgt sie 5,1 Jahre (BuWiK 2025, Abb. B45, basierend auf DZHW/Nacaps-Daten).
 
 ![Promotionsdauer nach Fächergruppen](Abb-B45-BuWiK25.svg)
+
 Link zur Grafik:  https://buwik.de/en/interactive-report/section-b/#chart-2586 
 
 Verbund-spezifische Zahlen:
 
  Promotionsdauer nach Wissenschaftsbereich und Programm (Median, in Monaten)(aus DFG 2021)
+ 
 ![Promotionsdauer nach Fächergruppen](DFG-Promotionsdauer.png)
 
 Angesichts der dokumentierten unterschiedlichen Promotionsdauern lohnt es sich, wenn GRK-Leiter:innen und -Manager:innen für die Bewertung der tatsächlichen und die Festlegung der angestrebten Promotionszeit die Zahlen für den jeweiligen Wissenschaftsbereich im Blick haben. Die Zahlen zeigen außerdem, dass es – Stand 2021 – eine deutliche Diskrepanz zwischen der idealen und der tatsächlichen Promotionsdauer gibt. GRKs sollen hier als strukturgebende Einrichtungen Abhilfe schaffen.
