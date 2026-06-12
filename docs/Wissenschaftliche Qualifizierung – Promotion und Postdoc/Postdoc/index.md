@@ -5,4 +5,4 @@ title: Postdoc
 
 - Early-Career-Phase
 - Besondere Bedarfe
-- Hablitation
+- Habilitation (Zahlen BuWiK 2025)

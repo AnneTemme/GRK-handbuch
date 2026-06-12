@@ -1,7 +1,7 @@
 ---
 title: Literatur und Links
 ---
-
+**Deutsche Forschungsgemeinschaft. (2021)**. Sprint oder Marathon? Die Dauer von Promotionen in DFG-geförderten Verbünden (1.1). Zenodo. [https://doi.org/10.5281/zenodo.5520751](https://doi.org/10.5281/zenodo.5520751)
 
 
 ### BuWiK 2025
