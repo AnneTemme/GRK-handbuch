@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "Texten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "Texten"
             }
           }
         ],
@@ -253,6 +253,13 @@
   },
   "active": "a1cc35008ccf4d8a",
   "lastOpenFiles": [
+    "docs/Beratung und Betreuung/Betreuung gestalten/Betreuung gestalten.md",
+    "docs/Betreuung gestalten.md",
+    "docs/Beratung und Betreuung/Betreuung gestalten/Mentoring/index.md",
+    "docs/Beratung und Betreuung/Betreuung gestalten/Mentoring",
+    "docs/Beratung und Betreuung/Betreuung gestalten/index.md",
+    "docs/Beratung und Betreuung/Betreuung gestalten",
+    "Unbenannt.md",
     "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/DFG-Promotionsdauer.png",
     "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Bildschirmfoto 2026-06-12 um 14.53.28.png",
     "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsverlauf.md",
@@ -272,7 +279,6 @@
     "docs/Abb-B45-BuWiK25.md",
     "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb.-B45-BuWiK-25.pdf",
     "Texten.md",
-    "Unbenannt.md",
     "Neue Ordner erstellen.md",
     "docs/Lizenz und Zitation.md",
     "docs/Lizenz.md",
@@ -283,15 +289,10 @@
     "docs/Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Unbenannt.md",
     "docs/Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/index.md",
     "docs/Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/Unbenannt.md",
-    "docs/Dokumentation, Reporting, Monitoring und Evaluation/index.md",
-    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Unbenannt.md",
-    "docs/Beratung und Betreuung/Betreuung strukturieren/index.md",
     "docs/Qualifizierungsprogramm/Good Scientific Practice",
     "docs/Good Scientific Practice",
     "docs/Unbenannt",
     "docs/Qualifizierungspropgramm",
-    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung",
-    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Stipendien und Auswahlverfahren",
-    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen"
+    "docs/Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung"
   ]
 }

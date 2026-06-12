@@ -67,12 +67,14 @@
             "id": "d2944910d37bb1c2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb-B45-BuWiK25.svg"
+                "file": "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Abb-B45-BuWiK25"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -240,16 +242,18 @@
   },
   "active": "d2944910d37bb1c2",
   "lastOpenFiles": [
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/DFG-Promotionsdauer.png",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsphasen.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionserfolg.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsformen.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/index.md",
+    "Beratung und Betreuung/Betreuung gestalten/Betreuung gestalten.md",
+    "Beratung und Betreuung/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/DFG-Promotionsdauer.png",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb-B45-BuWiK25.svg",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
     "Literatur und Links/index.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/index.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsverlauf.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsphasen.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb-B45-BuWiK25.svg",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsformen.md",
     "Warum dieses Handbuch?.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb-B45-BuWiK25.png",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb.-B45-BuWiK-25.pdf",
@@ -266,10 +270,9 @@
     "Beratung und Betreuung/Beratung/index.md",
     "Vernetzung und Internationalisierung/index.md",
     "Stipendien und Auswahlverfahren/index.md",
-    "Beratung und Betreuung/index.md",
     "Beratung und Betreuung/Beratung/Anlaufstellen bei Verletzung der GWP und Mobbing.md",
-    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/index.md",
-    "Beratung und Betreuung/Betreuung strukturieren/index.md",
+    "Beratung und Betreuung/Betreuung gestalten/Mentoring/index.md",
+    "Beratung und Betreuung/Betreuung gestalten/index.md",
     "Qualifizierungsprogramm/Good Scientific Practice",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung",
     "Literatur und Links"
