@@ -33,7 +33,12 @@ Die Beantwortung der folgenden Fragen wird entscheidende Rückschlüsse auf das 
 
 #### Promotionsdauer und -motive 
 
-2023 betrug die durchschnittliche Promotionsdauer laut Nacaps 5,1 Jahre – gemessen bis zum Abschluss der Promotion aus Sicht der Befragten. Die Promotionsdauer unterscheidet sich deutlich nach Fachbereich: Sie liegt zwischen 4,4 Jahren in den Agrar-, Forst- und Ernährungswissenschaften sowie der Veterinärmedizin und 6,3 Jahren in Kunst und Kunstwissenschaft. Insgesamt beträgt sie 5,1 Jahre (BuWiK 2025, Abb. B45, basierend auf DZHW/Nacaps-Daten). ![Promotionsdauer nach Fächergruppen](Abb-B45-BuWiK25)*Quelle: DZHW (2024), Datenportal der National Academics Panel Study (Nacaps), zitiert nach BuWiK 2025, Abb. B45*
+2023 betrug die durchschnittliche Promotionsdauer laut Nacaps 5,1 Jahre – gemessen bis zum Abschluss der Promotion aus Sicht der Befragten. Die Promotionsdauer unterscheidet sich deutlich nach Fachbereich: Sie liegt zwischen 4,4 Jahren in den Agrar-, Forst- und Ernährungswissenschaften sowie der Veterinärmedizin und 6,3 Jahren in Kunst und Kunstwissenschaft. Insgesamt beträgt sie 5,1 Jahre (BuWiK 2025, Abb. B45, basierend auf DZHW/Nacaps-Daten).
+
+![Promotionsdauer nach Fächergruppen](Abb-B45-BuWiK25.png)
+
+
+*Quelle: DZHW (2024), Datenportal der National Academics Panel Study (Nacaps), zitiert nach BuWiK 2025, Abb. B45*
 #### Promotionsabbrüche
 
 - Motivation
