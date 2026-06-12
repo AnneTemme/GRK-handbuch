@@ -5,3 +5,16 @@ theme:
     primary: custom
 extra_css:
   - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - Warum dieses Handbuch: Warum dieses Handbuch.md
+- Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen"
+  - Wissenschaftliche Qualifizierung – Promotion und Postdoc: "Wissenschaftliche Qualifizierung – Promotion und Postdoc"
+  - Qualifizierungsprogramm: "Qualifizierungsprogramm"
+  - Beratung und Betreuung: "Beratung und Betreuung"
+  - Stipendien und Auswahlverfahren: "Stipendien und Auswahlverfahren"
+  - Vernetzung und Internationalisierung: "Vernetzung und Internationalisierung"
+  - Dokumentation, Reporting, Monitoring und Evaluation: "Dokumentation, Reporting, Monitoring und Evaluation"
+  - Koordination: "Koordination"
+  - Literatur und Links: "Literatur und Links"
+
