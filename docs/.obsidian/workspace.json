@@ -335,16 +335,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beratung und Betreuung/Beratung/Anlaufstellen bei Verletzung der GWP und Mobbing.md",
+                "file": "Wissenschaftliche Qualifizierung – Promotion und Postdoc/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anlaufstellen bei Verletzung der GWP und Mobbing"
+              "title": "index"
+            }
+          },
+          {
+            "id": "fdf581f926b7ec64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "6a89a16af77360df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stipendien und Auswahlverfahren/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -506,35 +534,35 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "8db5f0ad29d239ac",
+  "active": "6a89a16af77360df",
   "lastOpenFiles": [
-    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/index.md",
-    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte.md",
-    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/index.md",
-    "Beratung und Betreuung/Betreuung strukturieren/index.md",
-    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
-    "Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
-    "Koordination/index.md",
-    "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
-    "Qualifizierungsprogramm/index.md",
-    "Qualifizierungsprogramm/Das Qualifizierungsprogramm.md",
-    "Dokumentation, Reporting, Monitoring und Evaluation/index.md",
-    "Beratung und Betreuung/Beratung/Karriereentwicklung/index.md",
-    "Literatur und Links/index.md",
-    "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/index.md",
-    "Beratung und Betreuung/Beratung/index.md",
-    "Vernetzung und Internationalisierung/index.md",
-    "Stipendien und Auswahlverfahren/index.md",
-    "Beratung und Betreuung/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Postdoc.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsformen.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/index.md",
     "index.md",
-    "Warum dieses Handbuch?.md",
-    "GSP.md",
+    "Vernetzung und Internationalisierung/index.md",
+    "Stipendien und Auswahlverfahren/index.md",
+    "Qualifizierungsprogramm/index.md",
+    "Literatur und Links/Literatur und Links.md",
+    "Literatur und Links/index.md",
+    "Koordination/index.md",
+    "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
+    "Beratung und Betreuung/index.md",
+    "Beratung und Betreuung/Betreuung strukturieren/index.md",
+    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/index.md",
+    "Beratung und Betreuung/Beratung/index.md",
+    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/index.md",
+    "Beratung und Betreuung/Beratung/Karriereentwicklung/index.md",
+    "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/index.md",
+    "Beratung und Betreuung/Beratung/Anlaufstellen bei Verletzung der GWP und Mobbing.md",
+    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte.md",
+    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
+    "Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
+    "Qualifizierungsprogramm/Das Qualifizierungsprogramm.md",
     "Qualifizierungsprogramm/Good Scientific Practice",
-    "Qualifizierungsprogramm/Good Scientific Practice/Autorschaft.md",
-    "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen 1.md",
-    "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
-    "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung",
     "Literatur und Links"
   ]

@@ -1,3 +1,4 @@
+# Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte
 Ressourcen**
 
 - Andrea Kis (2025). Surviving academia Studies on the sustainability of science and academic careers. Dissertation
