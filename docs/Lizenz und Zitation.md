@@ -11,4 +11,4 @@ Dieses Handbuch steht unter der Lizenz [CC BY-SA 4.0](https://creativecommons.or
 
 **Zitiervorschlag:**
 
-Temme Anne (laufend aktualisiert). GRK-Handbuch. Online verfügbar unter: https://annetemme.github.io/GRK-handbuch [Zugriffsdatum einfügen]
+Temme, Anne (laufend aktualisiert). GRK-Handbuch. Online verfügbar unter: https://annetemme.github.io/GRK-handbuch [Zugriffsdatum einfügen]
