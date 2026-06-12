@@ -132,9 +132,219 @@
               "icon": "lucide-file",
               "title": "Warum dieses Handbuch?"
             }
+          },
+          {
+            "id": "89358638b0ec2f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d9368cde0a0a04c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "28b3c4fc6e3745e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stipendien und Auswahlverfahren/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "63ebcd06a22a0bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vernetzung und Internationalisierung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "ef5657d47674feb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Beratung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "f03c56e66cd06cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Beratung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "006e8e95c1a486d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "233a28de81c7b761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualifizierungsprogramm/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "8103c96cb65d73db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literatur und Links/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "c42e463e8493f8c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "ea78ae8205c82a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Beratung/Karriereentwicklung/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "538d939509cd4260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Betreuung strukturieren/Mentoring/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "f62b47e80a24c03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Betreuung strukturieren/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "c3995483cc757bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Betreuung strukturieren/Mentoring/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "8db5f0ad29d239ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beratung und Betreuung/Beratung/Anlaufstellen bei Verletzung der GWP und Mobbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anlaufstellen bei Verletzung der GWP und Mobbing"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -296,35 +506,36 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "410b8c730b0a7c1a",
+  "active": "8db5f0ad29d239ac",
   "lastOpenFiles": [
+    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/index.md",
+    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte.md",
+    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/index.md",
+    "Beratung und Betreuung/Betreuung strukturieren/index.md",
+    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
+    "Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
+    "Koordination/index.md",
+    "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
+    "Qualifizierungsprogramm/index.md",
+    "Qualifizierungsprogramm/Das Qualifizierungsprogramm.md",
+    "Dokumentation, Reporting, Monitoring und Evaluation/index.md",
+    "Beratung und Betreuung/Beratung/Karriereentwicklung/index.md",
+    "Literatur und Links/index.md",
+    "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/index.md",
+    "Beratung und Betreuung/Beratung/index.md",
+    "Vernetzung und Internationalisierung/index.md",
+    "Stipendien und Auswahlverfahren/index.md",
+    "Beratung und Betreuung/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/index.md",
+    "index.md",
+    "Warum dieses Handbuch?.md",
     "GSP.md",
     "Qualifizierungsprogramm/Good Scientific Practice",
     "Qualifizierungsprogramm/Good Scientific Practice/Autorschaft.md",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen 1.md",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen.md",
-    "Qualifizierungsprogramm/Das Qualifizierungsprogramm.md",
     "Beratung und Betreuung/Beratung/Karriereentwicklung/Karriereentwicklung.md",
-    "Warum dieses Handbuch?.md",
-    "index.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/Postdoc.md",
-    "Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "Literatur und Links/Literatur und Links.md",
-    "Koordination/Methoden und Werkzeuge/Methoden und Werkzeuge.md",
-    "Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
-    "Dokumentation, Reporting, Monitoring und Evaluation/Stipendien und Auswahlverfahren/Stipendien und Auswahlverfahren.md",
-    "Beratung und Betreuung/Betreuung strukturieren/Betreuung strukturieren.md",
-    "Beratung und Betreuung/Betreuung strukturieren/Mentoring/Mentoring.md",
-    "Beratung und Betreuung/Beratung/Anlaufstellen bei Verletzung der GWP und Mobbing.md",
-    "Beratung und Betreuung/Beratung/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte/Work-Life-Balance, Mentale Gesundheit, Krisen und Konflikte.md",
-    "Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
-    "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/Unterstützung Promovierender aus nichtakademischen Familien.md",
-    "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/Forscher_Innen aus dem Ausland und zugewanderte Forscher_Innen.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsformen.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotion.md",
-    "Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung",
-    "Literatur und Links",
-    "Testdatei.md"
+    "Literatur und Links"
   ]
 }
