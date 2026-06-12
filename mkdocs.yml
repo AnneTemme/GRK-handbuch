@@ -8,7 +8,7 @@ extra_css:
 nav:
   - Home: index.md
   - Warum dieses Handbuch: Warum dieses Handbuch.md
-- Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen"
+  - Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen: "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen"
   - Wissenschaftliche Qualifizierung – Promotion und Postdoc: "Wissenschaftliche Qualifizierung – Promotion und Postdoc"
   - Qualifizierungsprogramm: "Qualifizierungsprogramm"
   - Beratung und Betreuung: "Beratung und Betreuung"
