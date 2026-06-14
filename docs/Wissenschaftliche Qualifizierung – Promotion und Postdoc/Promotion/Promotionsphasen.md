@@ -1,24 +1,15 @@
-### Hinweise zur Vorarbeit 
+Die Ausführungen zu den möglichen Inhalten und zur Form eines Qualifizierungsprogramms im GRK zeigen, dass viele Themenbereiche abzudecken sind, um die gewünschten Kompetenzen im Rahmen der Promotion vermitteln zu können und die Doktorand:innen ausreichend auf den Arbeitsmarkt vorzubereiten. Eine gute Möglichkeit, die Themen in einen zeitlichen Ablauf zu bringen, ist die Orientierung an Promotionsphasen, denn viele Qualifizierungsinhalte können erst in bestimmten Zeiträumen sinnvoll vermittelt und eingesetzt werden. Zum Beispiel rückt das Thema Karriere tendenziell nach der Hauptbearbeitungszeit der Promotion in den Vordergrund, Methodentrainings finden zu Beginn der Forschungsarbeit statt und Schreibtrainings vor und während der Hauptschreibphase. Die klassischen Promotionsphasen,  angelehnt an Vurgun (2016), sind hier illustriert:
 
-In Studien zum Promotionserfolg wird betont, dass es  – wenig überraschend –  einen positiven Effekt einiger Monate Vorarbeit auf die Promotionsdauer gibt. ([[Promotionserfolg]]). GRKs und andere Einrichtungen können diesen Aspekt für die Optimierung der Promotionsdauer nutzen. Folgende Formate sind denkbar:
+![Typische Promotionsphasen](Promotionsphasen.png)
+ Klassische Promotionsphasen, angelehnt an Vurgun (2016)
 
-- Beratung bei der Rekrutierung von Doktorand:innen: Aufklärung über die Relevanz der Vorarbeit
-- Finanzierung der Übergangsphase, inkl. Beratungsangeboten zur Vorbereitung auf die Promotion
-- Vorarbeit in die Abschlusszeit / Curriculum des Studiums integrieren (freiwillige Orientierungskurse)
+Entlang dieser Phasen können an Kohorten orientierte GRKs ihr Qualifizierungsprogramm ausrichten. Dieses Vorgehen hängt auch mit der Idee zusammen, dass bestimmte Kenntnisse und Fähigkeiten erst in bestimmten Phasen wirksam werden. Hierfür hat Vurgun eine Übersicht über phasentypische Herausforderungen, Krisen und Kompetenzen erstellt:
 
-Einrichtungen sollten darauf hinarbeiten diese Übergangszeit förderlich zu gestalten, um die Promotionszeiten und -bedingungen zu verbessern, zum Beispiel in Form von Hilfestellung bei der Literaturrecherche und bei der Exposé-Erstellung.
+![Typische Promotionsphasen und ihre Charakterisierung](Promotionsphasen_Merkmale.png)
+Die Abbildung zeigt einen Überblick über Phasen der Promotion, deren Charakteristika, Themen für Unterstützung und typische Herausforderungen bzw. Krisen während dieser Phasen (aus Vurgun 2012:18; die Krisen sind übernommen aus Fiedler & Hebecker, 2005).
 
-> Die Übergangsphase zwischen Master und Promotion sollte ein Jahr nicht überschreiten (nach Hillenbach et al. 2014:9).
+Die Übersicht zeigt, welche Bedarfe und Krisen im Verlauf der Promotion aufkommen können, woraus sich wiederum ablesen lässt, welche Kompetenzen jeweils gefragt sind und im Rahmen eines Qualifizierungsprogramms gefördert werden könnten. Obwohl es an einigen Stellen fachspezifische Unter-schiede geben wird, bietet eine solche Phasencharakterisierung einen guten Überblick für GRK-Koordinator:innen, und sie kann außerdem im Rahmen der konzeptuellen Arbeit beliebig angepasst werden.
 
-Nicht in allen Fällen lässt sich das Dissertastionsthema bereits festzurren. Viele Promovierende finden Stellen in drittmittel-finanzierten Projektstellen, bei denen sich eine Dissertation thematisch typischerweise am Projektplan orientiert. Allerdings gibt es ausreichen themenübergreifende Inhalte, die den angehenden Promovierenden bereits an die Hand gegeben werden können. Dazu gehören:
+Die Berücksichtigung der Promotionsphasen und die entsprechende Terminierung und Ausgestaltung der Qualifizierungsangebote kann die Wirksamkeit der vermittelten Inhalte und Trainings erhöhen. Dadurch die sind sie stärker mit tatsächlichen Arbeitserfahrung verbunden und gleichzeitig steigt die Bereitschaft der Promovierenden die Angebote in Anspruch zu nehmen.
 
-- **Aufklärung über Promotionsverlauf/-phasen** : Ein Überblick über typische Phasen der Promotion (Orientierung, Einstieg, Forschung, Abschluss) hilft neuen Mitgliedern einzuordnen, was in welcher Phase ansteht – unabhängig vom eigenen Forschungsthema. Das kann auch dazu beitragen, Erwartungen an den eigenen Zeitplan realistisch zu gestalten.
-- **Betreuungsanbahnung** : Auch wenn das Thema durch die Projektstelle vorgegeben ist, lohnt sich ein bewusster Einstieg in die Betreuungsbeziehung – zum Beispiel durch ein erstes Gespräch zu gegenseitigen Erwartungen, Kommunikationsformen und Kontakthäufigkeit. Checklisten für Einstiegsgespräche können hier unterstützen [Siehe xxx].
-- **Bibliografiemanagement**: Der Umgang mit Literaturverwaltungsprogrammen (z.B. Zotero, Citavi) ist unabhängig vom Thema relevant und früh im Promotionsprozess sinnvoll erlernt – erleichtert das gesamte weitere Arbeiten erheblich.
-- **Forschungsdatenmanagement**: Grundlagen zu Datenorganisation, -dokumentation und -sicherung sind heute oft auch Voraussetzung für Förderrichtlinien (FAIR-Prinzipien). Ein früher Einstieg vermeidet spätere Probleme bei der Datenaufbereitung für Publikationen oder Abschlussarbeit.
-- **Methodenkenntnisse/Methodenausbildung**: Grundlegende Forschungsmethoden des Fachbereichs lassen sich oft losgelöst vom konkreten Thema vermitteln und bilden eine wichtige Basis für die eigene Forschungsarbeit.
-- **Gute wissenschaftliche Praxis (GWP)**: Viele Hochschulen verpflichten zur Teilnahme an GWP-Schulungen – ein früher Zeitpunkt sorgt dafür, dass die Grundsätze von Beginn an in die eigene Arbeit einfließen.
-- **Schreibwerkstatt/wissenschaftliches Schreiben**: Grundlagen wissenschaftlichen Schreibens – Struktur, Stil, Argumentation – lassen sich unabhängig vom Thema vermitteln und sind in der gesamten Promotionsphase nützlich.
-- **Promotionsordnung und Zulassungsvoraussetzungen**: Ein frühes Verständnis der formalen Anforderungen (Zulassung, Fristen, Prüfungsformat) hilft, spätere Überraschungen zu vermeiden und die eigene Planung entsprechend auszurichten.
-- **Vernetzung/Kennenlernen der Kohorte**: Der soziale Anschluss an andere Promovierende – z.B. durch ein Kick-off-Treffen – kann unabhängig vom Forschungsthema erfolgen und wirkt sich positiv auf Zufriedenheit und Verbleib im Programm aus.
-- **Zeitmanagement/Projektplanung für die eigene Promotion**: Werkzeuge und Methoden zur Selbstorganisation – etwa Meilensteine setzen oder Arbeitspläne erstellen – sind zu Beginn besonders wertvoll, um die eigene Promotion strukturiert anzugehen.
+Quellen: Fiedler & Hebecker (2005), Vurgun (2012)

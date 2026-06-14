@@ -21,4 +21,17 @@ Vom verstärkten Ausbau der strukturierten Graduiertenförderung werden aber auc
 
 Das forschungspolitische Bestreben vor mehr als 20 Jahren war, dass die Doktorandenausbildung stärker institutionalisiert und die Strukturierung der Promotion flächendeckend im Rahmen von GRKs erfolgt. Dabei soll neben der Einrichtung auch das Konzept von Promotionsprogrammen stets weiterentwickelt werden. Es gibt keine offiziellen Maßgaben zur Gestaltung solcher Einrichtungen – „Vielfalt ist erwünscht“ (WR 2002) und bis zu einem gewissen Grad auch Teil des wissenschaftlichen Wettbewerbs. Außerdem muss durch unterschiedliche Disziplinen, Fächer- und Promotionskulturen, und nicht zuletzt durch unterschiedliche Bedürfnisse der Promovierenden selbst, die Strukturierung der Promotion anpassungsfähig bleiben. GRKs haben jedoch **wesentliche Strukturelemente gemeinsam**: Sie sollen transparent und wettbewerblich organisiert sein, hohe wissenschaftliche Maßstäbe ansetzen, ein sinnvolles Studienprogramm anbieten, für geteilte und kooperative Betreuungsverantwortung sorgen, und die Gestaltung der Arbeitsbedingungen in die Hand nehmen. Wichtige allgemeine Funktionen von GRKs sind außerdem die Entlastung der Doktorand:innen bei administrativen Aufgaben und die Bildung einer Informations- und Vernetzungsinfrastruktur. GRKs haben also eine uniforme Zielsetzung und fächerübergreifende Programmthemen wie Qualifikation, Betreuung, Beratung und Netzwerk.
 
-[Quellen](../Literatur%20und%20Links/): WR (2002), Böttcher & Krüger (2009:15-19), DFG (2010:11-12), Wintermantel (2010:21), UniWiND (2011:2), Fraune & Hegelich (2012:6), von Bülow (2014), Korff (2015:185), Krempkow (2015:4),  Gil (2016:91), NACAPS-Datenportal
+Fasst man die Empfehlungen (aus WR 1988, EUA 2005, 2010/Salzburg-Prinzipien, DFG 2021c) zusammen, ergibt sich die folgende Zielsetzung:
+
+**GRKs sollen…**
+
+1. ein Veranstaltungs- bzw. Qualifizierungsprogramm anbieten 
+2. ein gutes Betreuungsprogramm haben
+3. eingebunden sein in exzellente Forschung
+4. ein Stipendienprogramm anbieten
+5. internationale Austauschmöglichkeiten bieten
+
+Nach diesen Zielen lassen sich die Programmkomponenten festlegen – Für die Organisation laufender GRKs aber zum Beispiel auch für die Beantragung neuer GRKs.
+
+
+[Quellen](../Literatur%20und%20Links/): WR (1988), WR (2002), EUA (2005, 2010), Böttcher & Krüger (2009:15-19), DFG (2010:11-12), Wintermantel (2010:21), UniWiND (2011), Fraune & Hegelich (2012), von Bülow (2014), Korff (2015), Krempkow (2015),  Gil (2016), DFG (2021c), NACAPS-Datenportal, 
