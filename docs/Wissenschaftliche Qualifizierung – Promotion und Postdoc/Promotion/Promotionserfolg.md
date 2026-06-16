@@ -16,7 +16,7 @@ Allein weil es ein wichtiger Bewertungsmaßstab für die externe Evaluation der 
 
  Promotionsdauer nach Wissenschaftsbereich und Programm (Median, in Monaten)(aus DFG 2021):
  
- <img src="DFG-Promotionsdauer.png" alt="Promotionsdauer in DFG-Programmen nach Fächergruppen" width="600px">
+ <img src="DFG-Promotionsdauer.png" alt="Promotionsdauer in DFG-Programmen nach Fächergruppen" width="400px">
 
  Angesichts der dokumentierten unterschiedlichen Promotionsdauern lohnt es sich, wenn GRK-Leiter:innen und -Manager:innen für die Bewertung der tatsächlichen und die Festlegung der angestrebten Promotionszeit die Zahlen für den jeweiligen Wissenschaftsbereich im Blick haben. Die Zahlen zeigen außerdem, dass es – Stand 2021 – eine deutliche Diskrepanz zwischen der idealen und der tatsächlichen Promotionsdauer gibt. GRKs sollen hier als strukturgebende Einrichtungen Abhilfe schaffen.
 
@@ -54,7 +54,7 @@ Die NACAP-Studie berücksichtigt bei den Befragungen neben dem Vorkom-men auch d
 Auf der entsprechenden NACAPS-Seite lassen sich die Zahlen noch Differenzieren nach Geschlecht, Fächergruppe, Migrationshintergrund, Strukturiertes Programm, Bildungsherkunft, Elternschaft, Beschäftigung Promovierender: https://nacaps-datenportal.de/indikatoren/D2.html.
 Sehr ähnliche Ergebnisse liefert die _2019 Leibniz PhD Survey_, die mit Promotionsstudierenden der Leibniz-Gemeinschaft durchgeführt wird.
 
-<img src="Reasons_Leibniz.png" alt="Abbruchgedanken (Häufigkeit)" width="400px">
+<img src="Reasons_Leibniz.png" alt="Abbruchgedanken (Häufigkeit)" width="200px">
 
 **Have you ever considered quitting your PhD?** (n = 820). (Delgado-Osorio, X. et al. 2023:12)
 
