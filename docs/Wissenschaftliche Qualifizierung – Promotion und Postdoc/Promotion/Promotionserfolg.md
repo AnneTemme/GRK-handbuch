@@ -16,7 +16,7 @@ Allein weil es ein wichtiger Bewertungsmaßstab für die externe Evaluation der 
 
  Promotionsdauer nach Wissenschaftsbereich und Programm (Median, in Monaten)(aus DFG 2021):
  
- <img src="DFG-Promotionsdauer.svg" alt="DFG-Promotionsdauer.png" width="80%">
+ <img src="DFG-Promotionsdauer.png" alt="Promotionsdauer in DFG-Programmen nach Fächergruppen" width="600px">
 
  Angesichts der dokumentierten unterschiedlichen Promotionsdauern lohnt es sich, wenn GRK-Leiter:innen und -Manager:innen für die Bewertung der tatsächlichen und die Festlegung der angestrebten Promotionszeit die Zahlen für den jeweiligen Wissenschaftsbereich im Blick haben. Die Zahlen zeigen außerdem, dass es – Stand 2021 – eine deutliche Diskrepanz zwischen der idealen und der tatsächlichen Promotionsdauer gibt. GRKs sollen hier als strukturgebende Einrichtungen Abhilfe schaffen.
 
@@ -43,7 +43,6 @@ Die Beweggründe für eine Promotion lassen sich grob in drei Motivtypen untersc
 
 - Das Management sollte die aktuellen **Zahlen zur Promotionsdauer stets im Blick haben** und die Promotionszeiten der Doktorand:innen im Projekt regelmäßig erfassen – möglicherweise sogar mit einzelnen Entwicklungsstufen [[Promotionsphasen]]. Eine Besonderheit, die es bei der Dokumentation zu berücksichtigen gilt, sind die vielfältigen Möglichkeiten zur **Angabe des Promotionsbeginns und des Promotionsendes** [Dokumentation, Reporting, Monitoring und Evaluation].
 - Neben dem Monitoring der Promotionsverläufe kann ein GRK in seiner Funktion als Serviceprojekt bis zu einem gewissen Grad auch Einfluss auf die Promotionsdauer nehmen. Sie können die nötige **Unterstützung für den Einstieg in die Promotion** bieten, indem sie die Voraussetzungen der Fakultät für eine Promotion und die Anforderungen zur Einschreibung den Betroffenen kommunizieren und entsprechende Unterlagen und Checklisten bereitstellen. Da sich Bedingungen, wie zum Beispiel Leistungsnachweise, Promotionsordnungen, Fristen, oder Anforderungen zur Betreuung, im Laufe der Zeit ändern können, empfiehlt es sich, sich mit den relevanten Fakultäten/Fachbereichen abzusprechen. Auch wenn die formalen Prozesse und der Einstieg ins Forschungsprojekt in erster Linie selbstständig durchlaufen werden, ist es im Interesse des GRK die Projektmitglieder bei der Reflexion, der Bildung der Fragestellung und der Fertigstellung des Exposés zu unterstützen, z.B. durch das Angebot von Vorlagen, Beispielen und Hinweisen oder die Weitergabe von Literaturempfehlungen zum Einstieg und zur Gestaltung der Promotion. Einige zentrale Graduierteneinrichtungen bieten auch Workshops speziell für den Einstieg in die Promotionsphase an.
-- 
 ### Promotionsabbrüche
 
 Ein weiteres Ziel der Strukturierung der Promotion, neben der Verkürzung der Promotionszeit, ist die Verringerung der Abbruchquote.
@@ -55,7 +54,8 @@ Die NACAP-Studie berücksichtigt bei den Befragungen neben dem Vorkom-men auch d
 Auf der entsprechenden NACAPS-Seite lassen sich die Zahlen noch Differenzieren nach Geschlecht, Fächergruppe, Migrationshintergrund, Strukturiertes Programm, Bildungsherkunft, Elternschaft, Beschäftigung Promovierender: https://nacaps-datenportal.de/indikatoren/D2.html.
 Sehr ähnliche Ergebnisse liefert die _2019 Leibniz PhD Survey_, die mit Promotionsstudierenden der Leibniz-Gemeinschaft durchgeführt wird.
 
-![Gründe für Abbruckgedanken](Reasons_Leibniz.png)
+<img src="Reasons_Leibniz.png" alt="Abbruchgedanken (Häufigkeit)" width="400px">
+
 **Have you ever considered quitting your PhD?** (n = 820). (Delgado-Osorio, X. et al. 2023:12)
 
 Die Zahlen deuten insgesamt darauf hin, dass Abbruchgedanken zwar bei einem sehr großen Teil der Promovierenden vorkommen, aber nicht in gleichem Maße. Das tatsächliche Risiko ist deshalb nur schwer einzuschätzen. Die Promotion stellt als Individualprojekt zum Nachweis herausragender Forschung eine besonders große Herausforderung für Nachwuchswissenschaftler dar, sodass Abbruchgedanken an sich erwartbar sind und zunächst keine Gefahr darstellen. Sie sind außerdem nicht per se als Misserfolg für Kandidat:innen und die jeweiligen Einrichtungen zu verbuchen. Wenn sie allerdings langanhaltend und zur Blockade werden, zum Beispiel nach längerer Promotionsdauer, kann Krisenhilfe im Rahmen eines GRK-Projekts sinnvoll und notwendig sein.
