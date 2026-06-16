@@ -64,31 +64,17 @@
             }
           },
           {
-            "id": "d2944910d37bb1c2",
+            "id": "d82d93f18f8e986d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionserfolg.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Promotionserfolg"
-            }
-          },
-          {
-            "id": "d82d93f18f8e986d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dokumentation, Reporting, Monitoring und Evaluation/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
             }
           },
           {
@@ -104,23 +90,9 @@
               "icon": "lucide-file",
               "title": "Promotionsphasen"
             }
-          },
-          {
-            "id": "eec22d71974d31c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionserfolg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Promotionserfolg"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,23 +254,25 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "eec22d71974d31c9",
+  "active": "d82d93f18f8e986d",
   "lastOpenFiles": [
+    "Dokumentation, Reporting, Monitoring und Evaluation/index.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/DFG-Promotionsdauer.png",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionserfolg.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsphasen.md",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb-B45-BuWiK25.svg",
+    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Reasons_Leibniz.png",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsverlauf.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsphasen_Merkmale.png",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsphasen.png",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsphasen.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionsformen.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionserfolg.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/index.md",
     "Qualifizierungsprogramm/index.md",
     "Qualifizierungsprogramm/Verpflichtung.png",
     "Verbindlichkeit.md",
     "Qualifizierungsprogramm/Good Scientific Practice/Autorschaft.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Übergangsphasen/index.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Reasons_Leibniz.png",
     "Übergangsphasen.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/DFG-Promotionsdauer.png",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Postdoc/index.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Übergangsphasen",
     "Beratung und Betreuung/Beratung/Karriereentwicklung/Kompetenzanalyse.md",
@@ -307,10 +281,8 @@
     "Vernetzung und Internationalisierung/index.md",
     "Förderung des wissenschaftlichen Nachwuchses – Formen und Ziele von Graduierteneinrichtungen/index.md",
     "Literatur und Links/index.md",
-    "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Abb-B45-BuWiK25.svg",
     "Reasons_Leibniz.md",
     "Beratung und Betreuung/Beratung/index.md",
-    "Dokumentation, Reporting, Monitoring und Evaluation/index.md",
     "Beratung und Betreuung/Beratung/Besondere Bedarfsgruppen und Gleichstellung/index.md",
     "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionabbrüche.md",
     "Dokumentation, Reporting, Monitoring und Evaluation/Vernetzung und Internationalisierung/Vernetzung und Internationalisierung.md",

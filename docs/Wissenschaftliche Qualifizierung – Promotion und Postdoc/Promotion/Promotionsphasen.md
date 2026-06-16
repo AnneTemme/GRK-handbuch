@@ -5,7 +5,7 @@ Die Ausführungen zu den möglichen Inhalten und zur Form eines Qualifizierungsp
 
 Entlang dieser Phasen können an Kohorten orientierte GRKs ihr Qualifizierungsprogramm ausrichten. Dieses Vorgehen hängt auch mit der Idee zusammen, dass bestimmte Kenntnisse und Fähigkeiten erst in bestimmten Phasen wirksam werden. Hierfür hat Vurgun eine Übersicht über phasentypische Herausforderungen, Krisen und Kompetenzen erstellt:
 
-![Typische Promotionsphasen und ihre Charakterisierung](Promotionsphasen_Merkmale.png)
+![Typische Promotionsphasen und ihre Charakterisierun](Promotionsphasen_Merkmale.png)
 Die Abbildung zeigt einen Überblick über Phasen der Promotion, deren Charakteristika, Themen für Unterstützung und typische Herausforderungen bzw. Krisen während dieser Phasen (aus Vurgun 2012:18; die Krisen sind übernommen aus Fiedler & Hebecker, 2005).
 
 Die Übersicht zeigt, welche Bedarfe und Krisen im Verlauf der Promotion aufkommen können, woraus sich wiederum ablesen lässt, welche Kompetenzen jeweils gefragt sind und im Rahmen eines Qualifizierungsprogramms gefördert werden könnten. Obwohl es an einigen Stellen fachspezifische Unter-schiede geben wird, bietet eine solche Phasencharakterisierung einen guten Überblick für GRK-Koordinator:innen, und sie kann außerdem im Rahmen der konzeptuellen Arbeit beliebig angepasst werden.
