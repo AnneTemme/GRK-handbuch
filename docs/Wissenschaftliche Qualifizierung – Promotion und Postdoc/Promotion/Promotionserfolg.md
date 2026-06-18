@@ -16,7 +16,7 @@ Allein weil es ein wichtiger Bewertungsmaßstab für die externe Evaluation der 
 
  Promotionsdauer nach Wissenschaftsbereich und Programm (Median, in Monaten)(aus DFG 2021):
  
- <img src="./DFG-Promotionsdauer.png" alt="Promotionsdauer in DFG-Programmen nach Fächergruppen" width="400px">
+ <img src="../DFG-Promotionsdauer.png" alt="Promotionsdauer in DFG-Programmen nach Fächergruppen" width="400px">
 
  Angesichts der dokumentierten unterschiedlichen Promotionsdauern lohnt es sich, wenn GRK-Leiter:innen und -Manager:innen für die Bewertung der tatsächlichen und die Festlegung der angestrebten Promotionszeit die Zahlen für den jeweiligen Wissenschaftsbereich im Blick haben. Die Zahlen zeigen außerdem, dass es – Stand 2021 – eine deutliche Diskrepanz zwischen der idealen und der tatsächlichen Promotionsdauer gibt. GRKs sollen hier als strukturgebende Einrichtungen Abhilfe schaffen.
 
