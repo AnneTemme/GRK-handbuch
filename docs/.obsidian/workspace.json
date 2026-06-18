@@ -71,7 +71,7 @@
               "state": {
                 "file": "Wissenschaftliche Qualifizierung – Promotion und Postdoc/Promotion/Promotionserfolg.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Promotionserfolg"
