@@ -1,2 +1,2 @@
 
-non- university research institutes (NURI)
+non- university research institutes (NURI) > AUFEn auf Deutsch

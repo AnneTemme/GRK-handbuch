@@ -27,9 +27,11 @@ Solche statistischen Ausreißer sollten für geisteswissenschaftliche GRKs in di
 Zur Ermittlung der Erfolgskriterien von GRKs haben Studien untersucht, welchen Einfluss einzelne Aspekte der Promotionsprogramme der Hans-Böckler-Stiftung auf die Promotionsdauer haben. 
 > Von den Faktoren Betreuungssituation, Studienseminare, Ausstattung des Kollegs, Universitätsanbindung (z.B. relevant bei außeruniversitären Forschungseinrichtungen), Mitbestimmung, Beweggründe für die Promotion und Vorarbeit haben nur die letzten beiden einen signifikant verkürzenden Einfluss auf die Promotionsdauer (nach Böttcher & Krüger 2009)
 
-Gerade der fehlende Einfluss der **Betreuungssituation** kritisch gesehen werden darauf zurückgeführt werden, dass die Betreuer:innen die Promotionsdauer nicht ausreichend im Blick haben. Für das GRK-Management bedeutet das, dass dieser Aspekt in der Kommunikation mit den Betreuer:innen aufgegriffen und ihnen, sowie auch den Doktorand:innen, stärker bewusst gemacht werden muss. Siehe [[Betreuung gestalten]].
+Gerade der fehlende Einfluss der **Betreuungssituation** kritisch gesehen werden darauf zurückgeführt werden, dass die Betreuer:innen die Promotionsdauer nicht ausreichend im Blick haben. Für das GRK-Management bedeutet das, dass dieser Aspekt in der Kommunikation mit den Betreuer:innen aufgegriffen und ihnen, sowie auch den Doktorand:innen, stärker bewusst gemacht werden muss. Siehe [[Betreuung gestalten]]. [Promotionsphasen](Promotionsphasen.md).
 
-Der positive Effekt einiger Monate **Vorarbeit** vor einem GRK-Beitritt liegt auf der Hand: Sie verschiebt die Laufzeit nach vorne und wird selbst nicht zwingend zur Promotionszeit gerechnet. Diese Erkenntnis kann im Rahmen des GRK-Stipendienprogramms berücksichtig werden: Setzt man bei der Auswahl der Mitglieder darauf, dass bereits gewisse Vorarbeiten geleistet wurden, zum Beispiel in Form von Literaturrecherche und Exposé-Erstellung, macht es den Promotionsabschluss im Rahmen des GRK realistischer und den Projekterfolg sicherer. Siehe auch [[Promotionsphasen]].
+Der positive Effekt einiger Monate **Vorarbeit** vor einem GRK-Beitritt liegt auf der Hand: Sie verschiebt die Laufzeit nach vorne und wird selbst nicht zwingend zur Promotionszeit gerechnet. Diese Erkenntnis kann im Rahmen des GRK-Stipendienprogramms berücksichtig werden: Setzt man bei der Auswahl der Mitglieder darauf, dass bereits gewisse Vorarbeiten geleistet wurden, zum Beispiel in Form von Literaturrecherche und Exposé-Erstellung, macht es den Promotionsabschluss im Rahmen des GRK realistischer und den Projekterfolg sicherer. Siehe auch [Promotionsphasen](Promotionsphasen.md).
+
+
 
 Die **Beweggründe für eine Promotion** beeinflussen die Promotionsdauer ebenfalls positiv. Darauf hat ein GRK-Projekt zwar nur wenig Einfluss, die Motive und ihr möglicher Einfluss auf den Promotionsverlauf können aber in der Praxis mit den Doktorand:innen im Rahmen einer offenen Reflexion besprochen werden. Laut der NACAP-Studie sind spannende Promotionsinhalte, der Spaß an der Forschung selbst und die hohe persönliche Bedeutung der Promotion für den Promotionsstart die wichtigsten Motive, gefolgt von Karriere und Selbstbeweis, Selbstbild und Anerkennung, sowie Lebensunterhalt und schlechtem Gewissen.
 
@@ -54,7 +56,7 @@ Die NACAP-Studie berücksichtigt bei den Befragungen neben dem Vorkom-men auch d
 Auf der entsprechenden NACAPS-Seite lassen sich die Zahlen noch Differenzieren nach Geschlecht, Fächergruppe, Migrationshintergrund, Strukturiertes Programm, Bildungsherkunft, Elternschaft, Beschäftigung Promovierender: https://nacaps-datenportal.de/indikatoren/D2.html.
 Sehr ähnliche Ergebnisse liefert die _2019 Leibniz PhD Survey_, die mit Promotionsstudierenden der Leibniz-Gemeinschaft durchgeführt wird.
 
-<img src="Reasons_Leibniz.png" alt="Abbruchgedanken (Häufigkeit)" width="200px">
+<img src="../Reasons_Leibniz.png" alt="Abbruchgedanken (Häufigkeit)" width="200px">
 
 **Have you ever considered quitting your PhD?** (n = 820). (Delgado-Osorio, X. et al. 2023:12)
 
